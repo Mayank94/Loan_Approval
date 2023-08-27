@@ -14,14 +14,14 @@ The Loan Approval dataset is a collection of financial records and associated in
 - Loan status (target variable)
 
 ## Project Structure
-   loan_approval_data.csv       # Dataset file
-
-   Exploratory data analysis
-   Data cleaning and feature engineering
-   Model selection and comparison
-   Model_Evaluation
-   README.md                        
-   requirements.txt - Required libraries and dependencies
+   
+- Dataset - loan_approval_data.csv
+- Exploratory data analysis
+- Data cleaning and feature engineering
+- Model selection and comparison
+- Model_Evaluation
+- README.md                        
+- requirements.txt - Required libraries and dependencies
 
 ## Getting Started
 
